@@ -1,5 +1,5 @@
 {
-  "status":"Unexpected Outage",
-  "reason":"We're doing some final tests and maintenance and we will then be up shortly.",
-  "colour":"red"
+  "status":"No problems reported",
+  "reason":"",
+  "colour":"green"
 }
